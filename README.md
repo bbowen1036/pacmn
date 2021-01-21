@@ -39,4 +39,4 @@ All game pieces and board were custom styled to give game a retro feel. Pacman w
 ### Netlify
 This game is hosted with Netlify. Netlify is a serverless cloud deployment experience which makes Continuous Deployment a breeze by connecting to this github repository.
 ### Parcel
-Due to the small project size, Parcel was the perfect choice for a bundler.
+Due to the small project size, Parcel was the perfect choice for a bundler which required no configuration.
