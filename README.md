@@ -18,4 +18,12 @@
 # Overview
 
 This is a clone of the arcade classic Pacman that is built with Vanilla JS. 
-Gameplay and movement is controlled by the directional keys. 
+Gameplay and movement is controlled by the directional keys (up, down, left, right). 
+
+
+## Key Features
+
+- Object Oriented Design pattern
+- Randomized ghost patterns
+- Object collision checks
+- Interactive audio
